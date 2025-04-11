@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Strechoye
-- 👀 I’m interested in Web Development and Robotics
+- 👀 I’m interested in AI, Robotics, Data Scientist and a Financial Analyst
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Robotics and related projects in my development
+- 💞️ I’m looking to collaborate on Robotics, Analyst and related projects in my development
 - 📫 How to reach me emelujeremiah@gmail.com
 
 <!---
